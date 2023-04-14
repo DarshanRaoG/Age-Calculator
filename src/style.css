@@ -118,3 +118,62 @@ p{
 #year1,#month1,#day1{
     color:hsl(259, 100%, 65%);
 }
+
+@media (max-width:500px){
+    hr{
+        margin-left:19px;
+        width:100%;
+    }
+    #main-card{
+        border-bottom-right-radius: 150px;
+        margin-left:50px;
+        margin-right:40px;
+        padding-right:30px;
+    }
+    .year-item,.month-item,.day-item{
+        font-size:2.5rem;
+        padding-right:0px;
+        margin:0;
+    }
+  #year1,#month1,#day1{
+    font-size:2.5rem;
+    padding:0px;
+  }
+    #top-card{
+        padding-left:0px;
+        padding-right:15px;
+        padding-bottom:0px;
+        width:115%;
+    }
+    #item-1,#item-2,#item-3{
+        font-size:12px;
+        padding:7px;
+    }
+    #item-4{
+        width:60px;
+        padding:15px;
+        margin-top: 10px;
+    }
+    ::placeholder{
+        font-size:17px;
+        padding-left:0px;
+    }
+    input{
+        width:105%;
+        font-size:17px;
+    }
+    #bottom-card{
+        display:flex;
+        flex-direction: column;
+        padding-right:0;
+        padding-top:40px;
+        margin:0;
+        padding-left:10px;
+        padding-bottom:50px;
+    }
+    #submit-hr{
+      left:55%;  
+      /*right:80px;*/
+       transform: translate(-50%, 0);
+    }
+}
