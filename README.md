@@ -10,9 +10,9 @@
 
 # Output (Mobile View)
 <p align="center">
-<img src="https://github.com/DarshanRaoG/Age-Calculator/blob/main/mobile_output1.jpg" width="40%" height="575px">
-<img src="https://github.com/DarshanRaoG/Age-Calculator/blob/main/mobile_output2.jpg" width="40%" height="575px">
-<img src="https://github.com/DarshanRaoG/Age-Calculator/blob/main/mobile_output3.jpg" width="40%" height="575px">
+<img src="https://github.com/DarshanRaoG/Age-Calculator/blob/main/mobile_output1.jpg" width="320px" height="575px">
+<img src="https://github.com/DarshanRaoG/Age-Calculator/blob/main/mobile_output2.jpg" width="320px" height="575px">
+<img src="https://github.com/DarshanRaoG/Age-Calculator/blob/main/mobile_output3.jpg" width="320px" height="575px">
 </p>
 
 # Challenge Link
