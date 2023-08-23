@@ -1,6 +1,7 @@
 # Frontend Mentor - Age calculator app
 * Frontend app to calculate age by entering valid date (DD/MM/YYYY format)
 * Basic HTML + CSS + JavaScript
+* Try it out! ---> [Click Me](https://codepen.io/Troy_8D/full/jOeWKpZ)
 # Output (Desktop View)
 <p align="center">
 <img src="https://github.com/DarshanRaoG/Age-Calculator/blob/main/desktop_output1.JPG" width="90%" >
