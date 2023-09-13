@@ -88,6 +88,6 @@ function ageCalc(){
 function delayTask(element,i){
     setTimeout(function(){
         element.textContent = i;
-    },120*i)
+    },50*i)
 }
 
